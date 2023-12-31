@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\roga\assigment01\obj\Debug\net6.0\assigment01.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\roga\assigment01\obj\Debug\net6.0\assigment01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\roga\assigment01\obj\Debug\net6.0\assigment01.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\roga\assigment01\obj\Debug\net6.0\assigment01.AssemblyInfo.cs
+C:\Users\User\Desktop\roga\assigment01\obj\Debug\net6.0\assigment01.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\roga\assigment01\bin\Debug\net6.0\assigment01.exe
+C:\Users\User\Desktop\roga\assigment01\bin\Debug\net6.0\assigment01.deps.json
+C:\Users\User\Desktop\roga\assigment01\bin\Debug\net6.0\assigment01.runtimeconfig.json
+C:\Users\User\Desktop\roga\assigment01\bin\Debug\net6.0\assigment01.dll
+C:\Users\User\Desktop\roga\assigment01\bin\Debug\net6.0\assigment01.pdb
+C:\Users\User\Desktop\roga\assigment01\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\User\Desktop\roga\assigment01\obj\Debug\net6.0\assigment01.csproj.CopyComplete
+C:\Users\User\Desktop\roga\assigment01\obj\Debug\net6.0\assigment01.dll
+C:\Users\User\Desktop\roga\assigment01\obj\Debug\net6.0\refint\assigment01.dll
+C:\Users\User\Desktop\roga\assigment01\obj\Debug\net6.0\assigment01.pdb
+C:\Users\User\Desktop\roga\assigment01\obj\Debug\net6.0\assigment01.genruntimeconfig.cache
+C:\Users\User\Desktop\roga\assigment01\obj\Debug\net6.0\ref\assigment01.dll
